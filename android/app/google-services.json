@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365639672171",
+    "project_id": "exploremorocco-fa9b7",
+    "storage_bucket": "exploremorocco-fa9b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365639672171:android:a2db932b07d839c71b2c2e",
+        "android_client_info": {
+          "package_name": "com.example.explore_morocco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOHbhBe-4GNC8CMO9ZhR5tW5nH9c-kVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
